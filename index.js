@@ -12,12 +12,12 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'ST4RZ BOT 🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/bintang_nur_pradana'; // Nama Instagramlu cok
-const whatsapplu = '0819-4698-3575'; // Nomor whatsapplu cok
+const BotName = 'ManyBot ☠️'; // Nama Bot Whatsapp
+const instagramlu = 'https://instagram.com/boyolanang_'; // Nama Instagramlu cok
+const whatsapplu = '0813-2012-3492'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/FsAlnxqz6y2BhCQi5ayCLG'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://chat.whatsapp.com/KLW3UlFfeaH36Ucm5zRfCz'; // OFFICIAL GRUP LU 2
+const grupch1 = 'https://chat.whatsapp.com/JSQ3ua3aiSLIN2XeL2Igsy'; // OFFICIAL GRUP LU 1
+const grupch2 = 'https://chat.whatsapp.com/JSQ3ua3aiSLIN2XeL2Igsy'; // OFFICIAL GRUP LU 2
 //
 const
 {
@@ -225,70 +225,70 @@ axios.get('https://api.banghasan.com/quran/format/json/acak').then((res) => {
 })
 }
 else if (text == 'assalamualaikum'){
-conn.sendMessage(id, '3aalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'salam'){
-conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'asalamualaikum'){
-conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'Assalamualaikum'){
-conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'p'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'P'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'halo'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'hai'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'woi'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'woy'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'hi'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'gan'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'sis'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'bro'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'min'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'sayang'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'i love u'){
 conn.sendMessage(id, 'love you too' ,MessageType.text);
 }
 else if (text == 'mas'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'mba'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'bre'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'cuy'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'euy'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?,Saya ManyBot ☠️ ada yang bisa saya bantu? kalo bingung ketik #help ya..' ,MessageType.text);
 }
 else if (text == 'makasi'){
 conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
@@ -313,6 +313,12 @@ conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.tex
 }
 else if (text == 'Thanks'){
 conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+}
+else if (text == 'SS'){
+conn.sendMessage(id, 'Sabar, orang sabar di sayang Janda..wkwk :)' ,MessageType.text);
+}
+else if (text == 'ss'){
+conn.sendMessage(id, 'Sabar, orang sabar di sayang Janda :)' ,MessageType.text);
 }
 else if (text == '#donate'){
 const corohelp = await get.get('https://covid19.mathdro.id/api/countries/id').json()
